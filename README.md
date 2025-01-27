@@ -1,6 +1,22 @@
 #single-page-cv
 sample solution for the [single-page-cv](https://roadmap.sh/projects/single-page-cv) challenge from [roadmap.sh](https://roadmap.sh/).
 
+##How to run
+
+Clone the repository and run the following command:
+
+```bash
+git clone https://github.com/saushi7/single-page-cv.git
+cd single-page-cv
+```
+
+Run the following command to list the activities of a user:
+
+```bash
+# node index.html <username>
+node index.html saushi7
+```
+
 #CV (Curriculum Vitae)
 
 #JoelSaushi
